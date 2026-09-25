@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "ads": {
+    "launch": { "url": "", "fallback": "", "file": "launch.mp4", "duration": 15 },
+    "hourly": { "url": "", "fallback": "", "file": "hourly.mp4", "duration": 15 }
+  }
+}
