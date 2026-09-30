@@ -1,0 +1,167 @@
+{
+  "generated_utc": "2026-09-30T06:07:51Z",
+  "timezone_offset_minutes": 330,
+  "history_days": 1,
+  "active_users_24h": {
+    "peak_hourly_users": 12,
+    "avg_hourly_users": 12.0,
+    "user_hours": 12,
+    "requests": 14
+  },
+  "active_users_7d": {
+    "peak_hourly_users": 12,
+    "avg_hourly_users": 12.0,
+    "user_hours": 12,
+    "requests": 14
+  },
+  "peak_usage_hours": [
+    {
+      "hour_local": "11:00",
+      "avg_hourly_users": 12.0
+    },
+    {
+      "hour_local": "00:00",
+      "avg_hourly_users": 0.0
+    },
+    {
+      "hour_local": "01:00",
+      "avg_hourly_users": 0.0
+    }
+  ],
+  "hourly_profile": [
+    {
+      "hour": "00:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "01:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "02:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "03:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "04:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "05:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "06:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "07:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "08:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "09:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "10:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "11:00",
+      "avg_hourly_users": 12.0,
+      "days": 1
+    },
+    {
+      "hour": "12:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "13:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "14:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "15:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "16:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "17:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "18:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "19:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "20:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "21:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "22:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    },
+    {
+      "hour": "23:00",
+      "avg_hourly_users": 0.0,
+      "days": 0
+    }
+  ],
+  "by_section_requests": {
+    "adult": 6,
+    "movies": 4,
+    "youtube": 4
+  },
+  "daily": [
+    {
+      "date": "2026-09-30",
+      "peak_hourly_users": 12,
+      "avg_hourly_users": 12.0,
+      "requests": 14
+    }
+  ],
+  "privacy": "aggregate counts only - no ip addresses, device ids, user agents, urls or any other per-person data is collected or published. user_hours = distinct users counted per hour and summed, so it exceeds true distinct users."
+}
