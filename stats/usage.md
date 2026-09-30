@@ -3,18 +3,18 @@
 Auto-published by `usage_report.py`. **Aggregate counts only** - no IPs,
 device ids, user agents or URLs are collected or published.
 
-_Updated 2026-09-30T07:02:11Z (server local UTC+05:30)_
+_Updated 2026-09-30T07:15:03Z (server local UTC+05:30)_
 
 ## Active users
 
 | Window | Peak hourly | Avg hourly | User-hours | Requests |
 |---|---|---|---|---|
-| Last 24 h | 1 | 1.0 | 1 | 6 |
-| Last 7 d | 1 | 1.0 | 1 | 6 |
+| Last 24 h | 1 | 1.0 | 2 | 13 |
+| Last 7 d | 1 | 1.0 | 2 | 13 |
 
 ## Peak usage hours (local)
 
-Average distinct users by hour of day: **11:00 (1.0)**
+Average distinct users by hour of day: **11:00 (1.0), 12:00 (1.0)**
 
 | Hour | Avg users |
 |---|---|
@@ -30,7 +30,7 @@ Average distinct users by hour of day: **11:00 (1.0)**
 | 09:00 | 0.0  |
 | 10:00 | 0.0  |
 | 11:00 | 1.0 # |
-| 12:00 | 0.0  |
+| 12:00 | 1.0 # |
 | 13:00 | 0.0  |
 | 14:00 | 0.0  |
 | 15:00 | 0.0  |
@@ -47,10 +47,10 @@ Average distinct users by hour of day: **11:00 (1.0)**
 
 | Section | Requests |
 |---|---|
-| hub | 6 |
+| hub | 13 |
 
 ## Daily
 
 | Date | Peak hourly | Avg hourly | Requests |
 |---|---|---|---|
-| 2026-09-30 | 1 | 1.0 | 6 |
+| 2026-09-30 | 1 | 1.0 | 13 |
