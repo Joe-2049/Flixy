@@ -1,12 +1,12 @@
 {
-  "generated_utc": "2026-10-02T14:43:56Z",
+  "generated_utc": "2026-10-02T15:14:04Z",
   "timezone_offset_minutes": 330,
   "history_days": 3,
   "active_users_24h": {
     "peak_hourly_users": 2,
-    "avg_hourly_users": 1.62,
-    "user_hours": 13,
-    "requests": 71
+    "avg_hourly_users": 1.57,
+    "user_hours": 11,
+    "requests": 62
   },
   "active_users_7d": {
     "peak_hourly_users": 2,
