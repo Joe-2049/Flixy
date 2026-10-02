@@ -1,18 +1,18 @@
 {
-  "generated_utc": "2026-10-02T11:48:20Z",
+  "generated_utc": "2026-10-02T14:29:33Z",
   "timezone_offset_minutes": 330,
   "history_days": 3,
   "active_users_24h": {
     "peak_hourly_users": 2,
-    "avg_hourly_users": 1.8,
-    "user_hours": 18,
-    "requests": 105
+    "avg_hourly_users": 1.62,
+    "user_hours": 13,
+    "requests": 71
   },
   "active_users_7d": {
     "peak_hourly_users": 2,
-    "avg_hourly_users": 1.68,
-    "user_hours": 32,
-    "requests": 168
+    "avg_hourly_users": 1.65,
+    "user_hours": 33,
+    "requests": 177
   },
   "peak_usage_hours": [
     {
@@ -126,8 +126,8 @@
     },
     {
       "hour": "19:00",
-      "avg_hourly_users": 2.0,
-      "days": 1
+      "avg_hourly_users": 1.5,
+      "days": 2
     },
     {
       "hour": "20:00",
@@ -151,7 +151,7 @@
     }
   ],
   "by_section_requests": {
-    "hub": 155,
+    "hub": 164,
     "adult": 11,
     "movies": 1,
     "youtube": 1
@@ -172,8 +172,8 @@
     {
       "date": "2026-10-02",
       "peak_hourly_users": 2,
-      "avg_hourly_users": 1.5,
-      "requests": 35
+      "avg_hourly_users": 1.4,
+      "requests": 44
     }
   ],
   "privacy": "aggregate counts only - no ip addresses, device ids, user agents, urls or any other per-person data is collected or published. user_hours = distinct users counted per hour and summed, so it exceeds true distinct users."
