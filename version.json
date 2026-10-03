@@ -1,8 +1,8 @@
 {
-  "version": "1.8.18",
+  "version": "1.8.19",
   "download_url": "https://flix.flixworld.in/download",
   "sha256": {
-    "ads": "fea0f476b1f83c57700d3d745f78ee6917a84b7971fb97a1b4f1f049c691979c",
-    "noads": "3d9945351fa394f52fb6f3b533c352e903c2c4ac0b6f0a9ee3292f78cec1fb8c"
+    "ads": "15796ad48dfceba87241c73ec10a576adfc3d5765dc6a7449d3b715c4e92d435",
+    "noads": "69030962cbff6a4be4a1ec84598e3ecfb636462d010b7223383bc021aa72222c"
   }
 }
