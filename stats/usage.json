@@ -1,24 +1,20 @@
 {
-  "generated_utc": "2026-10-04T10:59:53Z",
+  "generated_utc": "2026-10-04T11:04:17Z",
   "timezone_offset_minutes": 330,
   "history_days": 5,
   "active_users_24h": {
     "peak_hourly_users": 2,
-    "avg_hourly_users": 1.6,
-    "user_hours": 8,
-    "requests": 58
+    "avg_hourly_users": 1.4,
+    "user_hours": 7,
+    "requests": 52
   },
   "active_users_7d": {
     "peak_hourly_users": 2,
-    "avg_hourly_users": 1.61,
-    "user_hours": 50,
-    "requests": 294
+    "avg_hourly_users": 1.59,
+    "user_hours": 51,
+    "requests": 302
   },
   "peak_usage_hours": [
-    {
-      "hour_local": "16:00",
-      "avg_hourly_users": 2.0
-    },
     {
       "hour_local": "17:00",
       "avg_hourly_users": 2.0
@@ -26,6 +22,10 @@
     {
       "hour_local": "18:00",
       "avg_hourly_users": 2.0
+    },
+    {
+      "hour_local": "16:00",
+      "avg_hourly_users": 1.75
     }
   ],
   "hourly_profile": [
@@ -111,8 +111,8 @@
     },
     {
       "hour": "16:00",
-      "avg_hourly_users": 2.0,
-      "days": 3
+      "avg_hourly_users": 1.75,
+      "days": 4
     },
     {
       "hour": "17:00",
@@ -151,7 +151,7 @@
     }
   ],
   "by_section_requests": {
-    "hub": 279,
+    "hub": 287,
     "adult": 12,
     "movies": 1,
     "youtube": 2
@@ -185,7 +185,7 @@
       "date": "2026-10-04",
       "peak_hourly_users": 1,
       "avg_hourly_users": 1.0,
-      "requests": 25
+      "requests": 33
     }
   ],
   "privacy": "aggregate counts only - no ip addresses, device ids, user agents, urls or any other per-person data is collected or published. user_hours = distinct users counted per hour and summed, so it exceeds true distinct users."
