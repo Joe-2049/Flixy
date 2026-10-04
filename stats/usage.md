@@ -3,13 +3,13 @@
 Auto-published by `usage_report.py`. **Aggregate counts only** - no IPs,
 device ids, user agents or URLs are collected or published.
 
-_Updated 2026-10-04T09:49:45Z (server local UTC+05:30)_
+_Updated 2026-10-04T10:04:53Z (server local UTC+05:30)_
 
 ## Active users
 
 | Window | Peak hourly | Avg hourly | User-hours | Requests |
 |---|---|---|---|---|
-| Last 24 h | 2 | 1.8 | 9 | 52 |
+| Last 24 h | 2 | 1.75 | 7 | 42 |
 | Last 7 d | 2 | 1.63 | 49 | 278 |
 
 ## Peak usage hours (local)
