@@ -3,14 +3,14 @@
 Auto-published by `usage_report.py`. **Aggregate counts only** - no IPs,
 device ids, user agents or URLs are collected or published.
 
-_Updated 2026-10-03T15:34:32Z (server local UTC+05:30)_
+_Updated 2026-10-04T09:03:13Z (server local UTC+05:30)_
 
 ## Active users
 
 | Window | Peak hourly | Avg hourly | User-hours | Requests |
 |---|---|---|---|---|
-| Last 24 h | 2 | 1.67 | 15 | 92 |
-| Last 7 d | 2 | 1.66 | 48 | 269 |
+| Last 24 h | 2 | 1.8 | 9 | 52 |
+| Last 7 d | 2 | 1.63 | 49 | 278 |
 
 ## Peak usage hours (local)
 
@@ -32,7 +32,7 @@ Average distinct users by hour of day: **16:00 (2.0), 17:00 (2.0), 18:00 (2.0)**
 | 11:00 | 1.0 # |
 | 12:00 | 1.5 ## |
 | 13:00 | 1.67 ## |
-| 14:00 | 1.33 # |
+| 14:00 | 1.25 # |
 | 15:00 | 1.67 ## |
 | 16:00 | 2.0 ## |
 | 17:00 | 2.0 ## |
@@ -47,7 +47,7 @@ Average distinct users by hour of day: **16:00 (2.0), 17:00 (2.0), 18:00 (2.0)**
 
 | Section | Requests |
 |---|---|
-| hub | 254 |
+| hub | 263 |
 | adult | 12 |
 | youtube | 2 |
 | movies | 1 |
@@ -60,3 +60,4 @@ Average distinct users by hour of day: **16:00 (2.0), 17:00 (2.0), 18:00 (2.0)**
 | 2026-10-01 | 2 | 2.0 | 70 |
 | 2026-10-02 | 2 | 1.29 | 60 |
 | 2026-10-03 | 2 | 1.86 | 76 |
+| 2026-10-04 | 1 | 1.0 | 9 |
